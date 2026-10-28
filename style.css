@@ -1,0 +1,16 @@
+body {
+    background-color: #0056b3; /* Fond bleu */
+    color: #ffffff;            /* Texte en blanc pour être lisible */
+    font-family: Arial, sans-serif;
+    
+    /* Centrer le nom au milieu de l'écran */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    font-size: 3rem;
+}
